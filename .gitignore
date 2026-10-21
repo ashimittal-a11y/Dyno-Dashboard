@@ -38,3 +38,5 @@ dist-ssr
 __pycache__/
 *.py[cod]
 tests/__pycache__/
+
+upload_to_github.bat
